@@ -12,12 +12,3 @@ I like CODEWARS and put here some of the 'purple' katas which I have solved.
 10. Square sums 1 kyu https://www.codewars.com/kata/5a667236145c462103000091
 11. Multisize Nonogram Solver 1 kyu https://www.codewars.com/kata/5a5519858803853691000069
 12. N queens problem (with one mandatory queen position) - challenge version 1 kyu https://www.codewars.com/kata/5985ea20695be6079e000003
-
-    
-
-
-
-   
-
-If somebody thinks they are not hard, try them. 
-
