@@ -13,5 +13,6 @@ I like CODEWARS and put here some of the 'purple' katas which I have solved.
 11. Multisize Nonogram Solver 1 kyu https://www.codewars.com/kata/5a5519858803853691000069
 12. N queens problem (with one mandatory queen position) - challenge version 1 kyu https://www.codewars.com/kata/5985ea20695be6079e000003
 13. Mr. Right & Mr. Wrong #2: Who is Mr.Wrong?  2 kyu https://www.codewars.com/kata/57a2e0dbe298a7fa4800003c
+14. Chain Reaction - Minimum Bombs Needed (Extreme Version) 2 kyu https://www.codewars.com/kata/65c420173817127b06ff7ea7
 
 
