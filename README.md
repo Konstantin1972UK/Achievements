@@ -15,4 +15,5 @@ I like CODEWARS and put here some of the 'purple' katas which I have solved.
 13. Mr. Right & Mr. Wrong #2: Who is Mr.Wrong?  2 kyu https://www.codewars.com/kata/57a2e0dbe298a7fa4800003c
 14. Chain Reaction - Minimum Bombs Needed (Extreme Version) 2 kyu https://www.codewars.com/kata/65c420173817127b06ff7ea7
 15. Break the pieces 2 kyu https://www.codewars.com/kata/527fde8d24b9309d9b000c4e
+16. Break the pieces (Evilized Edition) 1 kyu https://www.codewars.com/kata/591f3a2a6368b6658800020e
 
