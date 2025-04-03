@@ -19,4 +19,5 @@ I like CODEWARS and put here some of the 'purple' katas which I have solved.
 17. Blain is a pain. 2 kyu. https://www.codewars.com/kata/59b47ff18bcb77a4d1000076
 18. Partition Detection 2 kyu. https://www.codewars.com/kata/60f5868c7fda34000d556f30
 19. ASCII Games: Dance Dance Evolution I  2 kyu. https://www.codewars.com/kata/58f58dc3663082a4ba000033
+20. Transforming Maze Solver 2 kyu. https://www.codewars.com/kata/5b86a6d7a4dcc13cd900000b/python
 
